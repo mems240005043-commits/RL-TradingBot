@@ -47,3 +47,6 @@ Modify `config/training_config.yaml` to adjust hyperparameters.
 - PyYAML
 
 See `requirements.txt` for full dependencies.
+
+# model is in testing.py file
+
